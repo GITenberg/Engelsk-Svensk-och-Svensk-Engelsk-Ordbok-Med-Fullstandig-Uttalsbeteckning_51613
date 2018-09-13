@@ -1,0 +1,27 @@
+_repo: Engelsk-Svensk-och-Svensk-Engelsk-Ordbok-Med-Fullstandig-Uttalsbeteckning_51613
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lönnkvist, Frederick
+    aliases:
+    - Lönnkvist, Fred. (Frederick)
+    - Lonnkvist, Frederick
+    gutenberg_agent_id: '46490'
+    url: http://www.gutenberg.org/2009/agents/46490
+description: ''
+gutenberg_issued: '2016-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51613'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PD'
+- !lcsh 'English language -- Dictionaries -- Swedish'
+- !lcsh 'Swedish language -- Dictionaries -- English'
+- !lcsh 'Swedish language -- Glossaries, vocabularies, etc.'
+- GITenberg
+title: Engelsk-Svensk och Svensk-Engelsk Ordbok Med Fullständig Uttalsbeteckning
+url: http://www.gutenberg.org/ebooks/51613
